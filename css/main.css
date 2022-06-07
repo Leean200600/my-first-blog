@@ -7,12 +7,11 @@ div.title {
     font-family: 'Dotum' 'Sunflower';
     padding-left: 650px;
     padding-top: 30px;
-    font-size: 24px;
+    font-size: 30px;
     font-weight: 600;
     box-sizing: border-box;
     background-color: #4abc3972;
     height: 100px;
-    background
 }
 
 div.pic {
